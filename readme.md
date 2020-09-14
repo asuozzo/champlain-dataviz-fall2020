@@ -1,0 +1,1 @@
+Files for fall 2020 Champlain College DAT-430 Data Vizualization class.
