@@ -1,6 +1,6 @@
-﻿incident_number,call_type,call_type_group,call_time,Street,call_origin,mental_health,drug_related,dv_related,alcohol_related,Area,AreaName,Latitude,Longitude,WARD,DISTRICT,type_level
-19BU019202,Noise,Quality of Life,9/1/19 0:02,Cedar St,Phone,0,0,0,0,B,OldNorthEnd,44.48410591,-73.2145343,3,Central,Type 1
-19BU019203,Compliance Check,Court Order,9/1/19 0:11,St Paul St,Phone,0,0,0,0,D,Downtown,44.47475944,-73.21386828,3,Central,Type 1
-19BU019205,Noise,Quality of Life,9/1/19 0:36,Dans Ct,Phone,0,0,0,0,C,UniversityHillSection,44.4857117,-73.20367604,1,East,Type 1
-19BU019206,Assist - Agency,Assist,9/1/19 0:37,Loomis St,911,0,0,0,1,C,UniversityHillSection,44.48458334,-73.20847777,2,Central,Type 2
-19BU019207,Noise,Quality of Life,9/1/19 1:03,N Willard St,Officer/Radio,0,0,0,0,C,UniversityHillSection,44.48242871,-73.20405188,2,Central,Type 1
+incident_number,call_type,call_type_group,call_date,call_time,Street,call_origin,mental_health,drug_related,dv_related,alcohol_related,Area,AreaName,Latitude,Longitude,WARD,DISTRICT,type_level
+19BU019202,Noise,Quality of Life,2019-09-01,0:02:00,Cedar St,Phone,0,0,0,0,B,OldNorthEnd,44.48410591,-73.2145343,3,Central,Type 1
+19BU019203,Compliance Check,Court Order,2019-09-01,0:11:00,St Paul St,Phone,0,0,0,0,D,Downtown,44.47475944,-73.21386828,3,Central,Type 1
+19BU019205,Noise,Quality of Life,2019-09-01,0:36:00,Dans Ct,Phone,0,0,0,0,C,UniversityHillSection,44.4857117,-73.20367604,1,East,Type 1
+19BU019206,Assist - Agency,Assist,2019-09-01,0:37:00,Loomis St,911,0,0,0,1,C,UniversityHillSection,44.48458334,-73.20847777,2,Central,Type 2
+19BU019207,Noise,Quality of Life,2019-09-01,1:03:00,N Willard St,Officer/Radio,0,0,0,0,C,UniversityHillSection,44.48242871,-73.20405188,2,Central,Type 1
