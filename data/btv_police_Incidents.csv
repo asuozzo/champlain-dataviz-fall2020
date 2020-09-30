@@ -798,7 +798,6 @@ incident_number,call_type,call_type_group,call_time,Street,call_origin,mental_he
 19BU020056,Assault - Simple,Assault,2019-09-10 15:11:00,S Champlain,Phone,0,1,0,1,E,SouthEnd,44.47185687,-73.21550404,5.0,South,Type 3
 19BU020058,Assist - Agency,Assist,2019-09-10 15:22:00,North Street,Phone,0,0,0,0,B,OldNorthEnd,44.48474603,-73.21792454,3.0,Central,Type 2
 19BU020063,911 Hangup,Other,2019-09-10 15:57:00,Starr Farm Rd,911,0,0,0,0,A,NewNorthEnd,44.51755543,-73.26513617,4.0,North,Type 2
-19BU020064,Larceny - Other,Property,2019-08-31 18:34:00,Woodbury Rd,Online Report,0,0,0,0,A,NewNorthEnd,44.50966322,-73.25763665,4.0,North,Type 1
 19BU020065,Crash - Property damage only,Motor Vehicle,2019-09-10 16:04:00,Kilburn St,Phone,0,0,0,0,E,SouthEnd,44.47100212,-73.2131092,5.0,South,
 19BU020066,Mental Health Issue,Public Service,2019-09-10 16:05:00,Pearl St,911,0,0,0,0,C,UniversityHillSection,44.4791063,-73.20855099,2.0,Central,Type 2
 19BU020067,Larceny - Other,Property,2019-09-10 16:10:00,Chase St,Phone,0,0,0,0,C,UniversityHillSection,44.48702426,-73.18340773,1.0,East,Type 1
@@ -866,7 +865,6 @@ incident_number,call_type,call_type_group,call_time,Street,call_origin,mental_he
 19BU020129,Traffic,Motor Vehicle,2019-09-11 10:49:00,Elmwood Ave / Peru St,Phone,0,0,0,0,B,OldNorthEnd,44.48186682,-73.21367784,2.0,Central,Type 1
 19BU020130,Larceny - Other,Property,2019-09-11 10:59:00,Church St,In Person,0,0,0,0,D,Downtown,44.47933715,-73.21067782,3.0,Central,Type 1
 19BU020131,Trespass,Other,2019-09-11 11:01:00,Elmwood Ave,Officer/Radio,0,0,0,0,B,OldNorthEnd,44.48495067,-73.21531944,2.0,Central,Type 2
-19BU020132,Fraud,Financial Crime,2019-08-31 20:41:00,15 1/2 Loomis St,Online Report,0,0,0,0,,,44.42787783,-73.19892807,,,Type 1
 19BU020133,Animal Problem,Animal,2019-09-11 11:07:00,Lakeside Ave,Phone,0,0,0,0,E,SouthEnd,44.46359616,-73.21740362,5.0,South,Type 1
 19BU020134,Larceny - Other,Property,2019-09-04 13:12:00,Shelburne Rd,Online Report,0,0,0,0,E,SouthEnd,44.46269131,-73.20906189,5.0,South,Type 1
 19BU020135,Assist - Public,Public Service,2019-09-11 11:18:00,N Winooski Ave,Phone,0,0,0,0,C,UniversityHillSection,44.48233548,-73.21113285,2.0,Central,Type 1
@@ -25877,7 +25875,6 @@ incident_number,call_type,call_type_group,call_time,Street,call_origin,mental_he
 20BU016705,Noise,Quality of Life,2020-08-31 23:31:00,Hyde St/School St,Phone,0,0,0,0,C,UniversityHillSection,44.48397139,-73.20982637,2.0,Central,Type 1
 20BU016706,Violation of Conditions of Release,Court Order,2020-08-31 23:35:00,Pearl St/Battery,Officer/Radio,0,0,0,0,D,Downtown,44.47942375,-73.21984533,3.0,Central,Type 2
 20BU016707,Motor Vehicle Complaint,Motor Vehicle,2020-08-31 23:37:00,N Willard St,Phone,0,0,0,0,C,UniversityHillSection,44.48480462,-73.20368008,1.0,East,Type 1
-19BU019172,Threats/Harassment,Other,2019-08-31 19:16:00,St Paul St,911,0,0,0,0,D,Downtown,44.47739222,-73.21294920000001,3.0,Central,Type 2
 19BU019204,Noise,Quality of Life,2019-09-01 00:31:00,Dans Ct,Phone,0,0,0,0,C,UniversityHillSection,44.48687375,-73.20439209,1.0,East,Type 1
 19BU019334,Domestic Disturbance,Domestic,2019-09-02 18:50:00,,Phone,0,0,0,0,B,OldNorthEnd,,,2.0,Central,Type 3
 19BU019937,Larceny - from Motor Vehicle,Property,2019-09-09 13:55:00,Fletcher Pl,Phone,0,0,0,0,C,UniversityHillSection,44.48213035,-73.19698918,1.0,East,Type 1
