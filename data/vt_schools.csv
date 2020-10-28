@@ -1,0 +1,296 @@
+org_id,org_name,students,address,grades
+PS001,Academy School,353,"860 WESTERN AVENUE, BRATTLEBORO, VT, 05301",elementary
+PS002,Addison Central School,79,"121 VT RTE 17 WEST, ADDISON, VT, 05491",elementary
+PS007,Albany Community School,95,"351 MAIN ST, ALBANY, VT, 05820","elementary, middle"
+PS008,Albert Bridge School (West Windsor),61,"PO BOX 88, BROWNSVILLE, VT, 05037",elementary
+PS009,Albert D Lawton School,357,"104 MAPLE STREET, ESSEX JUNCTION, VT, 05452","elementary, middle"
+PS010,Alburgh Community Education Center,222,"14 NORTH MAIN STREET, ALBURG, VT, 05440","elementary, middle"
+PS011,Arlington Memorial,200,"529 EAST ARLINGTON RD, ARLINGTON, VT, 05250","elementary, middle, high"
+PS015,Bakersfield School,146,"BOX 17 ACADEMY DRIVE, BAKERSFIELD, VT, 05441","elementary, middle"
+PS017,Barnard Central School,82,"ROUTE 12, BARNARD, VT, 05031",elementary
+PS018,Barnet Elementary School,191,"163 KID ROW, BARNET, VT, 05821","elementary, middle"
+PS381,Barre City Elementary/Middle School,886,"50 PARKSIDE TERRACE, BARRE, VT, 05641","elementary, middle"
+PS020,Barre Town Elementary School,813,"70 WEBSTERVILLE ROAD, BARRE, VT, 05641","elementary, middle"
+PS021,Barstow Memorial School,210,"223 CHITTENDEN ROAD, CHITTENDEN, VT, 05737","elementary, middle"
+PS022,Barton Graded School,188,"137 CHURCH STREET, BARTON, VT, 05822","elementary, middle"
+PS023,Beeman Elementary School,93,"50 NORTH STREET, NEW HAVEN, VT, 05472",elementary
+PS024,Bellows Falls Middle School,243,"SCHOOL STREET, BELLOWS FALLS, VT, 05101","elementary, middle"
+PS025,Bellows Falls UHSD #27,332,"ROUTE 5 SOUTH, BELLOWS FALLS, VT, 05101",high
+PS406,Bellows Free Academy,837,"71 SOUTH MAIN STREET, ST ALBANS, VT, 05478",high
+PS027,Bellows Free Academy (Fairfax),532,"75 HUNT STREET, FAIRFAX, VT, 05454",elementary
+PS405,Bellows Free Academy High School (Fairfax),437,"75 HUNT STREET, FAIRFAX, VT, 05454","middle, high"
+PS029,Bennington Elementary School,325,"128 PARK STREET, BENNINGTON, VT, 05201",elementary
+PS031,Benson Village School,65,"32 SCHOOL STREET, BENSON, VT, 05731","elementary, middle"
+PS032,Berkshire Elementary School,209,"4850 WATER TOWER ROAD, RICHFORD, VT, 05476","elementary, middle"
+PS033,Berlin Elementary School,215,"372 PAINE TURNPIKE NO - BERLIN, BERLIN, VT, 05602",elementary
+PS034,Bethel Elementary School,153,"273 PLEASANT ST, BETHEL, VT, 05032",elementary
+PS076,Bingham Memorial School,88,"112 SCHOOL ROAD, CORNWALL, VT, 05753",elementary
+PS035,Black River High School,129,"43 MAIN STREET, LUDLOW, VT, 05149","middle, high"
+PS036,Blue Mountain USD #21,405,"2420 ROUTE 302, WELLS RIVER, VT, 05081","elementary, middle, high"
+PS037,Bradford Elementary School,287,"143 FAIRGROUND RD, BRADFORD, VT, 05033",elementary
+PS038,Braintree School,103,"66 BENT HILL ROAD, BRAINTREE, VT, 05060",elementary
+PS367,Bratt Area Middle School UHSD #6,284,"109 SUNNY ACRES, BRATTLEBORO, VT, 05301",middle
+PS040,Brattleboro UHSD #6,794,"131 FAIRGROUND ROAD, BRATTLEBORO, VT, 05301",high
+PS041,Brewster Pierce School,140,"120 SCHOOL STREET, HUNTINGTON, VT, 05462",elementary
+PS043,Bridport Central School,81,"3442 VT RT 22A, BRIDPORT, VT, 05734",elementary
+PS044,Brighton Elementary School,101,"825 RAILROAD ST, ISLAND POND, VT, 05846","elementary, middle"
+PS045,Bristol Elementary School,308,"57 MOUNTAIN ST, BRISTOL, VT, 05443",elementary
+PS047,Brookfield School,68,"1728 RIDGE RD, BROOKFIELD, VT, 05036",elementary
+PS050,Brown River Middle School,412,"20 RIVER ROAD, JERICHO, VT, 05465","elementary, middle"
+PS049,Brownington Central School,116,"103 CHASE ROAD, BROWNINGTON, VT, 05860","elementary, middle"
+PS051,Burke Town School,232,"3293 BURKE HOLLOW ROAD, WEST BURKE, VT, 05871","elementary, middle"
+PS052,Burlington Senior High School,979,"52 INSTITUTE ROAD, BURLINGTON, VT, 05401",high
+PS080,C P Smith School,280,"332 ETHAN ALLEN PARKWAY, BURLINGTON, VT, 05401",elementary
+PS055,Cabot School,163,"25 COMMON ROAD, CABOT, VT, 05647","elementary, middle, high"
+PS056,Calais Elementary School,125,"321 LIGHTENING RIDGE ROAD, PLAINFIELD, VT, 05667",elementary
+PS057,Cambridge Elementary School,333,"186 SCHOOL ST, JEFFERSONVILLE, VT, 05464",elementary
+PS058,Camels Hump Middle School,324,"173 SCHOOL STREET, RICHMOND, VT, 05477","elementary, middle"
+PS059,Canaan Schools,197,"99 SCHOOL STREET, CANAAN, VT, 05903","elementary, middle, high"
+PS413,Castleton Elementary School,253,"263 ELEMENTARY SCHOOL ROAD, CASTLETON, VT, 05735",elementary
+PS414,Castleton Village School,101,"47 MECHANIC ST, CASTLETON, VT, 05735","elementary, middle"
+PS063,Cavendish Town Elementary School,104,"PO BOX 236, PROCTORSVILLE, VT, 05153",elementary
+PS064,Chamberlin School,329,"262 WHITE STREET, SO BURLINGTON, VT, 05403",elementary
+PS065,Champlain School,675,"800 PINE STREET, BURLINGTON, VT, 05401",elementary
+PS066,Champlain Valley Union High School,1291,"369 CVU ROAD, HINESBURG, VT, 05461",high
+PS067,Charleston Elementary School,102,"255 CENTER SCHOOL ROAD, WEST CHARLESTON, VT, 05872","elementary, middle"
+PS068,Charlotte Central School,412,"408 HINESBURG ROAD, CHARLOTTE, VT, 05445","elementary, middle"
+PS069,Chelsea Elementary Middle School,131,"6 SCHOOL ST, CHELSEA, VT, 05038","elementary, middle"
+PS070,Chester Andover Elementary School,292,"72 MAIN STREET, CHESTER, VT, 05143",elementary
+PS071,Clarendon Elementary School,169,"84 GRANGE HALL RD, NORTH CLARENDON, VT, 05759",elementary
+PS072,Colchester High School,636,"PO BOX 900, COLCHESTER, VT, 05446",high
+PS073,Colchester Middle School,496,"425 BLAKELY ROAD, COLCHESTER, VT, 05446","elementary, middle"
+PS074,Concord Graded/Middle School,117,"173 SCHOOL STREET, CONCORD, VT, 05824","elementary, middle"
+PS077,Coventry Village School,148,"PO BOX 92, COVENTRY, VT, 05825","elementary, middle"
+PS078,Craftsbury Schools,197,"1422 NORTH CRAFTSBURY ROAD, CRAFTSBURY COMM, VT, 05827","elementary, middle, high"
+PS391,Crossett Brook Middle School,284,"5672 VT ROUTE 100, DUXBURY, VT, 05676","elementary, middle"
+PS079,Currier Memorial Union School,90,"234 NORTH MAIN ST, DANBY, VT, 05739",elementary
+PS082,Danville School,375,"148 PEACHAM ROAD, DANVILLE, VT, 05828","elementary, middle, high"
+PS084,Derby Elementary School,444,"907 ELM STREET, DERBY LINE, VT, 05830",elementary
+PS085,Dorset School,175,"130 SCHOOL DRIVE, DORSET, VT, 05251","elementary, middle"
+PS378,Dothan Brook School,267,"2300 CHRISTIAN STREET, WHITE RIVER JCT, VT, 05001",elementary
+PS357,Doty Memorial School,84,"24 CALAIS RD, WORCESTER, VT, 05682",elementary
+PS086,Dover Elementary School,95,"9 SCHOOLHOUSE ROAD, EAST DOVER, VT, 05341",elementary
+PS087,Dummerston Schools,165,"52 SCHOOLHOUSE ROAD, EAST DUMMERSTON, VT, 05346","elementary, middle"
+PS091,East Montpelier Elementary School,222,"VINCENT FLATS RD, EAST MONTPELIER, VT, 05651",elementary
+PS093,Eden Central School,150,"140 KNOWLES FLAT RD, EDEN, VT, 05652",elementary
+PS094,Edmunds Elementary School,295,"299 MAIN STREET, BURLINGTON, VT, 05401",elementary
+PS095,Edmunds Middle School,407,"275 MAIN STREET, BURLINGTON, VT, 05401","elementary, middle"
+PS277,Elm Hill School,360,"10 HOOVER STREET, SPRINGFIELD, VT, 05156",elementary
+PS096,Enosburg Falls Elementary School,278,"PO BOX 510, ENOSBURG FALLS, VT, 05450",elementary
+PS098,Enosburg Falls Junior/Senior High School,426,"SCHOOL STREET, BOX 417, ENOSBURG FALLS, VT, 05450","elementary, middle, high"
+PS099,Essex Elementary School,536,"1 BIXBY HILL ROAD, ESSEX JUNCTION, VT, 05452",elementary
+PS388,Essex High School,1248,"2 EDUCATIONAL LANE, ESSEX JUNCTION, VT, 05452",high
+PS101,Essex Middle School,421,"60 FOUNDERS RD, ESSEX JUNCTION, VT, 05452","elementary, middle"
+PS103,Fair Haven Grade School,355,"103 N.MAIN STREET, FAIR HAVEN, VT, 05743","elementary, middle"
+PS104,Fair Haven Union High School,362,"33 MECHANIC STREET EXTENSION, FAIR HAVEN, VT, 05743",high
+PS105,Fairfield Center School,260,"57 PARK STREET, FAIRFIELD, VT, 05455","elementary, middle"
+PS107,Fayston Elementary School,96,"782 GERMAN FLATS ROAD, FAYSTON, VT, 05673",elementary
+PS108,Ferrisburgh Central School,157,"56 LITTLE CHICAGO ROAD, FERRISBURGH, VT, 05456",elementary
+PS109,Fisher School,201,"504 EAST ARLINGTON RD, ARLINGTON, VT, 05250",elementary
+PS110,Fletcher Elementary School,119,"340 SCHOOL ROAD, CAMBRIDGE, VT, 05444",elementary
+PS111,Flood Brook School,325,"91 VT ROUTE 11, LONDONDERRY, VT, 05148","elementary, middle"
+PS112,Folsom Education and Community Center,129,"75 SOUTH STREET, SOUTH HERO, VT, 05486","elementary, middle"
+PS113,Founders Memorial School,419,"33 FOUNDERS RD, ESSEX JUNCTION, VT, 05452",elementary
+PS115,Franklin Central School,144,"15 SCHOOL ST, FRANKLIN, VT, 05457",elementary
+PS273,Frederick H Tuttle Middle School,569,"500 DORSET STREET, S BURLINGTON, VT, 05403","elementary, middle"
+PS117,Georgia Elementary/Middle School,682,"4416 ETHAN ALLEN HIGHWAY, ST ALBANS, VT, 05478","elementary, middle"
+PS118,Glover Community School,121,"100 SCHOOL STREET, GLOVER, VT, 05839","elementary, middle"
+PS120,Grafton Elementary School,66,"MAIN STREET, GRAFTON, VT, 05146",elementary
+PS122,Grand Isle Elementary School,156,"224 US RTE 2, GRAND ISLE, VT, 05458","elementary, middle"
+PS124,Green Mountain Union High School,318,"716 VT RTE 103 SOUTH, CHESTER, VT, 05143","middle, high"
+PS385,Green Street School,227,"164 GREEN STREET, BRATTLEBORO, VT, 05301",elementary
+PS128,Guilford Central School,137,"374 SCHOOL ROAD, GUILFORD, VT, 05301",elementary
+PS129,Halifax School,68,"BRANCH ROAD, WEST HALIFAX, VT, 05358","elementary, middle"
+PS131,Hardwick Elementary School,242,"MAIN STREET, HARDWICK, VT, 05843",elementary
+PS134,Hartford High School,484,"37 HIGHLAND AVENUE, WHITE RIVER JCT, VT, 05001",high
+PS135,Hartford Memorial Middle School,315,"245 HIGHLAND AVENUE, WHITE RIVER JCT, VT, 05001","elementary, middle"
+PS137,Hartland Elementary School,285,"97 MARTINSVILLE ROAD, HARTLAND, VT, 05048","elementary, middle"
+PS138,Harwood Union High School,472,"458 VT ROUTE 100, DUXBURY, VT, 05660",high
+PS393,Harwood Union Middle School,134,,middle
+PS139,Hazen UHSD #26,285,"NORTH MAIN ST, HARDWICK, VT, 05843","middle, high"
+PS141,Hiawatha School,207,"34 HIAWATHA AVENUE, ESSEX JUNCTION, VT, 05452",elementary
+PS142,Highgate Schools,307,"PO BOX 163, HIGHGATE CENTER, VT, 05459",elementary
+PS143,Hinesburg Community School,593,"10888 RT 116, HINESBURG, VT, 05461","elementary, middle"
+PS144,Holland Elementary School,44,,elementary
+PS145,Hyde Park Elementary School,237,"50 EAST MAIN STREET, HYDE PARK, VT, 05655",elementary
+PS337,Integrated Arts Academy At HO Wheeler,291,"4 DEBRA DRIVE, ESSEX JUNCTION, VT, 05452",elementary
+PS147,Irasburg Village School,140,"292 VT-58, IRASBURG, VT, 05845","elementary, middle"
+PS148,Isle La Motte Elementary School,28,"534 SCHOOL ST, ISLE LAMOTTE, VT, 05463",elementary
+PS154,J F Kennedy Elementary School,486,"70 NORMAND STREET, WINOOSKI, VT, 05404",elementary
+PS155,J J Flynn School,340,"1645 NORTH AVENUE, BURLINGTON, VT, 05401",elementary
+PS149,Jamaica Village School,63,"347 DEPOT ST, JAMAICA, VT, 05343",elementary
+PS374,Jay/Westfield Joint School,85,"257 REVOIR FLATS RD, JAY, VT, 05859",elementary
+PS152,Jericho Elementary School,322,"90 VT RTE 15, JERICHO, VT, 05465",elementary
+PS153,Johnson Elementary School,264,"57 COLLEGE HILL, JOHNSON, VT, 05656",elementary
+PS267,Killington Elementary School,98,"686 SCHOOL HOUSE ROAD, KILLINGTON, VT, 05751",elementary
+PS156,Lake Elmore School,13,"PO BOX 122, LAKE ELMORE, VT, 05657",elementary
+PS157,Lake Region UHSD #24,364,"317 LAKE REGION ROAD, ORLEANS, VT, 05860",high
+PS126,Lakeview USD #43,67,"189 LAURENDON AVE, GREENSBORO, VT, 05841",elementary
+PS158,Lamoille Union High School,481,"736 VT ROUTE 15 WEST, HYDE PARK, VT, 05655",high
+PS404,Lamoille Union Middle School,257,"736 VT ROUTE 15 WEST, HYDE PARK, VT, 05655",middle
+PS161,Leland and Gray UHSD #34,273,"PO BOX 128, TOWNSHEND, VT, 05353","middle, high"
+PS162,Lincoln Community School,130,"795 EAST RIVER RD, LINCOLN, VT, 05443",elementary
+PS165,Lothrop School,204,"3447 US ROUTE 7, PITTSFORD, VT, 05763",elementary
+PS166,Lowell Graded School,109,"52 GELO PARK ROAD, LOWELL, VT, 05847","elementary, middle"
+PS167,Ludlow Elementary School,109,"45 MAIN STREET, LUDLOW, VT, 05149",elementary
+PS168,Lunenburg & Gilman Schools,144,"2720 RIVER ROAD, GILMAN, VT, 05904","elementary, middle"
+PS169,Lyman C Hunt Middle School,409,"1364 NORTH AVENUE, BURLINGTON, VT, 05401","elementary, middle"
+PS170,Lyndon Town School,534,"2591 LILY POND ROAD, LYNDONVILLE, VT, 05851","elementary, middle"
+PS173,Main Street School,366,"170 MAIN STREET, MONTPELIER, VT, 05602","elementary, middle"
+PS174,Malletts Bay School,483,"BLAKELY RD, COLCHESTER, VT, 05446",elementary
+PS175,Manchester Elementary/Middle School,420,"PO BOX 1526, MANCHESTER CTR, VT, 05255","elementary, middle"
+PS176,Marion W Cross School,318,"22 CHURCH STREET, NORWICH, VT, 05055",elementary
+PS177,Marlboro Elementary School,97,"PO BOX D, MARLBORO, VT, 05344","elementary, middle"
+PS392,Mettawee Community School,189,"5788 VT ROUTE 153, WEST PAWLET, VT, 05775",elementary
+PS179,Middlebury ID #4 School,538,"201 MARY HOGAN DRIVE, MIDDLEBURY, VT, 05753",elementary
+PS180,Middlebury Union High School,530,"73 CHARLES AVENUE, MIDDLEBURY, VT, 05753",high
+PS366,Middlebury Union Middle School,271,"48 DEERFIELD LANE, MIDDLEBURY, VT, 05753",middle
+PS182,Middletown Springs Elementary School,66,"PO BOX 1267, MIDDLETOWN SPR, VT, 05757",elementary
+PS183,Mill River Union High School,429,"2321 MIDDLE ROAD, NORTH CLARENDON, VT, 05759","middle, high"
+PS184,Millers Run Union High School,121,"3249 ROUTE 122, SHEFFIELD, VT, 05866","elementary, middle"
+PS140,Milton Elementary School,833,"42 HERRICK AVENUE, MILTON, VT, 05468",elementary
+PS185,Milton Middle School,341,"17 REBECCA LANDER DRIVE, MILTON, VT, 05468","elementary, middle"
+PS186,Milton Senior High School,474,"17 REBECCA LANDER DRIVE, MILTON, VT, 05468",high
+PS187,Missisquoi Valley UHSD #7,795,"100 THUNDER BIRD DRIVE, SWANTON, VT, 05488","middle, high"
+PS188,Molly Stark School,525,"181 ORCHARD STREET, BENNINGTON, VT, 05201",elementary
+PS189,Monkton Central School,167,"1036 MONKTON ROAD, NO FERRISBURG, VT, 05473",elementary
+PS190,Montgomery Center School,136,"249 SCHOOL DRIVE, MONTGOMERY CTR, VT, 05471","elementary, middle"
+PS191,Montpelier High School,318,"5 HIGH SCHOOL DRIVE, MONTPELIER, VT, 05602",high
+PS192,Monument School,175,"66 MAIN STREET, BENNINGTON, VT, 05201",elementary
+PS193,Moretown Elementary School,162,"940 ROUTE 100B, MORETOWN, VT, 05660",elementary
+PS194,Morristown Elementary Schools,352,"548 PARK STREET, MORRISVILLE, VT, 05661",elementary
+PS196,Mt Anthony Senior UHSD #14,860,"301 PARK STREET EXTENSION, BENNINGTON, VT, 05201",high
+PS197,Mt Anthony Union Middle School,595,"747 EAST ROAD, BENNINGTON, VT, 05201","elementary, middle"
+PS198,Mt Holly School,111,"150 SCHOOL STREET, MOUNT HOLLY, VT, 05758",elementary
+PS199,Mt Mansfield Union High School,782,"211 BROWNS TRACE RD, JERICHO, VT, 05465",high
+PS195,Mt. Abraham Union High School #61,627,"220 AIRPORT DRIVE, BRISTOL, VT, 05443","middle, high"
+PS200,Neshobe School,415,"17 NESHOBE CIRCLE, BRANDON, VT, 05733",elementary
+PS201,Newark School,59,"1448 NEWARK STREET, NEWARK, VT, 05871","elementary, middle"
+PS408,Newbrook Elementary School,158,"14 SCHOOL ROAD, NEWFANE, VT, 05345",elementary
+PS202,Newbury Elementary School,144,"PO BOX 68, NEWBURY, VT, 05051",elementary
+PS204,Newport City Elementary Schools,367,"166 SIAS AVENUE, NEWPORT, VT, 05855",elementary
+PS205,Newport Town School,98,"4212 VT ROUTE 105, NEWPORT CENTER, VT, 05857",elementary
+PS206,Newton Elementary School,105,"PO BOX 239, SOUTH STRAFFORD, VT, 05070","elementary, middle"
+PS364,North Country Junior UHSD #22,253,"57 JUNIOR HIGH DRIVE, DERBY, VT, 05829",middle
+PS208,North Country Senior UHSD #22,680,"209 VETERANS AVE, NEWPORT, VT, 05855",high
+PS209,North Hero Elementary School,66,"6441 US ROUTE 2, NORTH HERO, VT, 05474",elementary
+PS210,Northfield Elementary School,307,"10 CROSS STREET, NORTHFIELD, VT, 05663",elementary
+PS211,Northfield Middle/High School,285,"37 CROSS STREET, UNIT2+3, NORTHFIELD, VT, 05663","elementary, middle, high"
+PS383,Oak Grove School,292,"15 MORELAND AVENUE, BRATTLEBORO, VT, 05301",elementary
+PS215,Orange Center School,79,"357 US ROUTE 302, EAST BARRE, VT, 05649","elementary, middle"
+PS216,Orchard School,483,"2 BALDWIN AVENUE, SO BURLINGTON, VT, 05403",elementary
+PS217,Orleans Elementary School,125,"53 SCHOOL STREET, ORLEANS, VT, 05860","elementary, middle"
+PS218,Orwell Village School,153,"494 MAIN STREET, ORWELL, VT, 05760","elementary, middle"
+PS380,Ottauquechee School,228,"PO BOX 353, QUECHEE, VT, 05059",elementary
+PS418,Otter Creek Academy at Leicester Sudbury and Whiting,110,"31 SCHOOLHOUSE ROAD, SUDBURY, VT, 05733",elementary
+PS219,Otter Valley Union High School,554,"2997 FRANKLIN STREET, BRANDON, VT, 05733","middle, high"
+PS220,Oxbow UHSD #30,294,"36 OXBOW DRIVE, BRADFORD, VT, 05033","middle, high"
+PS223,Peacham Elementary School,66,"340 BAILEY HAZEN ROAD, PEACHAM, VT, 05862",elementary
+PS224,Peoples Academy,263,"202 COPLEY AVENUE, MORRISVILLE, VT, 05661",high
+PS394,Peoples Academy Middle School,258,"202 COPLEY AVENUE, MORRISVILLE, VT, 05661","elementary, middle"
+PS227,Porters Point School,492,"490 PORTERS POINT RD, COLCHESTER, VT, 05446",elementary
+PS229,Poultney Elementary School,256,"96 SCHOOL CIRCLE, POULTNEY, VT, 05764",elementary
+PS230,Poultney High School,195,"154 EAST MAIN STREET, POULTNEY, VT, 05764","middle, high"
+PS231,Pownal Elementary School,260,"94 SCHOOLHOUSE ROAD, POWNAL, VT, 05261",elementary
+PS232,Proctor Elementary School,164,"14 SCHOOL STREET, PROCTOR, VT, 05765",elementary
+PS233,Proctor Junior/Senior High School,111,"4 PARK STREET, PROCTOR, VT, 05765","middle, high"
+PS409,Prosper Valley School,77,"1071 POMFRET RD, SO POMFRET, VT, 05067",elementary
+PS234,Putney Central School,192,"182 WESTMINSTER ROAD, PUTNEY, VT, 05346","elementary, middle"
+PS359,Randolph Elementary School,346,"40 AYERS BROOK RD, RANDOLPH, VT, 05060",elementary
+PS237,Randolph Union High School,393,"15 FOREST STREET, RANDOLPH, VT, 05060","middle, high"
+PS239,Reading Elementary School,53,"632 VT RTE 106, READING, VT, 05062",elementary
+PS240,Readsboro Elementary School,45,"301 PHELPS LANE, READSBORO, VT, 05350","elementary, middle"
+PS241,Richford Elementary School,195,"1 ELEMENTARY SCHOOL ROAD, RICHFORD, VT, 05476",elementary
+PS242,Richford Junior/Senior High School,233,"1 CORLISS HEIGHTS, RICHFORD, VT, 05476","elementary, middle, high"
+PS243,Richmond Elementary School,312,"125 SCHOOL STREET, RICHMOND, VT, 05477",elementary
+PS271,Rick Marcotte Central School,428,"10 MARKET STREET, SO BURLINGTON, VT, 05403",elementary
+PS244,Ripton Elementary School,55,"753 RIPTON LINCOLN ROAD, RIPTON, VT, 05766",elementary
+PI004,Rivendell Academy,201,,"middle, high"
+PS245,Riverside Middle School,257,"13 FAIRGROUND ROAD, SPRINGFIELD, VT, 05156","elementary, middle"
+PS246,Robinson School,154,"41 PARSONAGE ROAD, STARKSBORO, VT, 05487",elementary
+PS247,Rochester School,93,"222 SOUTH MAIN STREET, ROCHESTER, VT, 05767",elementary
+PS249,Rockingham Central Elementary,231,"50 SCHOOL STREET EXTENSION, BELLOWS FALLS, VT, 05101",elementary
+PS250,Roxbury Village School,43,"1559 ROXBURY ROAD, ROXBURY, VT, 05669",elementary
+PS181,Rumney School (Middlesex),177,"433 SHADY RILL ROAD, MIDDLESEX, VT, 05602",elementary
+PS253,Rutland High School,819,"22 STRATTON ROAD, RUTLAND, VT, 05701",high
+PS382,Rutland Intermediate School,508,"63-65 LIBRARY AVENUE, RUTLAND, VT, 05701",elementary
+PS365,Rutland Middle School,273,"63-65 LIBRARY AVE, RUTLAND, VT, 05701",middle
+PS255,Rutland Northeast Primary School,271,"117 TEMPLE STREET, RUTLAND, VT, 05701",elementary
+PS256,Rutland Northwest Primary School,264,"80 PIERPOINT AVENUE, RUTLAND, VT, 05701",elementary
+PS258,Rutland Town Elementary School,355,"1612 POST ROAD, RUTLAND TOWN, VT, 05701","elementary, middle"
+PS259,Salisbury Community School,106,"286 KELLY CROSS ROAD, SALISBURY, VT, 05769",elementary
+PS106,Samuel Morey Elementary School,168,"214 SCHOOL ST, FAIRLEE, VT, 05045",elementary
+PS260,Saxtons River Elementary School,91,"SCHOOL STREET, SAXTONS RIVER, VT, 05154",elementary
+PS262,Shaftsbury Elementary School,255,"150 BUCK HILL ROAD, SHAFTSBURY, VT, 05262",elementary
+PS263,Sharon Elementary School,162,"75 ROUTE 132, SHARON, VT, 05065",elementary
+PS264,Shelburne Community School,857,"345 HARBOR RD, SHELBURNE, VT, 05482","elementary, middle"
+PS266,Sheldon Elementary School,295,"78 POOR FARM ROAD, SHELDON, VT, 05483","elementary, middle"
+PS268,Shoreham Elementary School,102,"130 SCHOOL ROAD, SHOREHAM, VT, 05770",elementary
+PS269,Shrewsbury Mountain School,70,"300 MOUNTAIN SCHOOL ROAD, SHREWSBURY, VT, 05738",elementary
+PS270,Smilie Memorial School (Bolton),105,"2712 THEODORE ROOSEVELT HWY, BOLTON, VT, 05676",elementary
+PS272,South Burlington High School,913,"550 DORSET STREET, SO BURLINGTON, VT, 05403",high
+PS274,South Royalton Elementary School,182,"223 SOUTH WINDSOR ST, SOUTH ROYALTON, VT, 05068",elementary
+PS276,Spaulding HSUD #41,669,"155 AYERS STREET, BARRE, VT, 05641",high
+PS278,Springfield High School,362,"303 SOUTH STREET, SPRINGFIELD, VT, 05156",high
+PS288,St Albans City School,831,"29 BELLOWS STREET, ST ALBANS, VT, 05478","elementary, middle"
+PS289,St Albans Town Education Center,813,"169 SOUTH MAIN STREET, ST ALBANS, VT, 05478","elementary, middle"
+PS400,St Johnsbury Schools,675,"257 WESTERN AVENUE SUITE 2, ST JOHNSBURY, VT, 05819","elementary, middle"
+PS284,Stamford Elementary School,96,"986 MAIN ROAD, STAMFORD, VT, 05352","elementary, middle"
+PS285,Stockbridge Central School,50,"2933 VT ROUTE 107, STOCKBRIDGE, VT, 05772",elementary
+PS286,Stowe Elementary School,419,"PARK STREET, STOWE, VT, 05672",elementary
+PS287,Stowe Middle/High School,428,"413 BARROWS RD, STOWE, VT, 05672","elementary, middle, high"
+PS292,Summit Street School,332,"17 SUMMIT STREET, ESSEX JUNCTION, VT, 05452",elementary
+PS293,Sunderland Elementary School,94,"98 BEAR RIDGE RD, SUNDERLAND, VT, 05250",elementary
+PS159,Sustainability Academy At Lawrence Barnes,192,"123 NORTH STREET, BURLINGTON, VT, 05401",elementary
+PS294,Sutton School,93,"95 UNDERPASS ROAD, SUTTON, VT, 05867","elementary, middle"
+PS295,Swanton Schools,654,"24 FOURTH STREET, SWANTON, VT, 05488",elementary
+PS390,Thatcher Brook Primary School,439,"47 STOWE STREET, WATERBURY, VT, 05676",elementary
+PS298,Thetford Elementary School,249,"2689 RT 113, THETFORD, VT, 05074",elementary
+PS299,Thomas Fleming School,236,"9 PROSPECT STREET, ESSEX JUNCTION, VT, 05452",elementary
+PS300,Tinmouth Elementary School,63,"573 ROUTE 140, TINMOUTH, VT, 05773",elementary
+PS301,Townshend Village School,77,"66 COMMON RD RT 30, TOWNSHEND, VT, 05353",elementary
+PS302,Troy School,177,"PO BOX 110, NORTH TROY, VT, 05859","elementary, middle"
+PS303,Tunbridge Central School,117,"523 ROUTE 110, TUNBRIDGE, VT, 05077","elementary, middle"
+PS083,Twin Valley Elementary School,222,"360 RT 100 NORTH, WILMINGTON, VT, 05363",elementary
+PS411,Twin Valley Middle High School,204,"4299 VT RT 100, WHITINGHAM, VT, 05361","elementary, middle, high"
+PS304,Twinfield USD #33,340,"106 NASMITH BROOK ROAD, PLAINFIELD, VT, 05667","elementary, middle, high"
+PS305,U32 High School UHSD #32,726,"930 GALLISON HILL ROAD, MONTPELIER, VT, 05602","middle, high"
+PS306,Underhill Central School,130,"GENERAL DELIVERY, UNDERHILL CTR, VT, 05490",elementary
+PS307,Underhill ID School,139,,elementary
+PS308,Union Elementary School,534,"1 PARK AVENUE, MONTPELIER, VT, 05602",elementary
+PS309,Union Memorial School,250,"253 MAIN ST, COLCHESTER, VT, 05446",elementary
+PS280,Union Street School,234,"43 UNION STREET, SPRINGFIELD, VT, 05156",elementary
+PS311,Vergennes Union Elementary School,264,"43 EAST STREET, VERGENNES, VT, 05491",elementary
+PS312,Vergennes Union High School,470,"50 MONKTON ROAD, VERGENNES, VT, 05491","middle, high"
+PS313,Vernon Elementary School,194,"GOVERNOR HUNT ROAD, VERNON, VT, 05354",elementary
+PS310,Waits River Valley USD #36,246,"6 WAITS RIVER VALLEY ROAD, EAST CORINTH, VT, 05040","elementary, middle"
+PS315,Waitsfield Elementary School,146,"3951 MAIN STREET, WAITSFIELD, VT, 05673",elementary
+PS316,Walden School,77,"135 CAHOON FARM ROAD, WEST DANVILLE, VT, 05873","elementary, middle"
+PS317,Wallingford Village School,159,"126 SCHOOL STREET, WALLINGFORD, VT, 05773",elementary
+PS319,Wardsboro Central School,49,"RT 100, WARDSBORO, VT, 05355",elementary
+PS320,Warren Elementary School,155,"273 SCHOOL ROAD, WARREN, VT, 05674",elementary
+PS322,Washington Village School,111,"RTE 110, WASHINGTON, VT, 05675",elementary
+PS324,Waterford Elementary School,155,"276 DUCK POND ROAD, ST JOHNSBURY, VT, 05819","elementary, middle"
+PS325,Waterville Elementary School,92,"3414 VT ROUTE 109, WATERVILLE, VT, 05492",elementary
+PS407,Weathersfield School,226,"PO BOX 279, ASCUTNEY, VT, 05030","elementary, middle"
+PS328,Wells Village School,90,"135 VT ROUTE 30, WELLS, VT, 05774",elementary
+PS331,West Rutland School,348,"713 MAIN STREET, WEST RUTLAND, VT, 05777","elementary, middle, high"
+PS333,Westford Elementary School,198,"146 BROOKSIDE ROAD, WESTFORD, VT, 05494","elementary, middle"
+PS334,Westminster Schools,215,"301 SCHOOL ST, WESTMINSTER, VT, 05158",elementary
+PS399,Westshire School,105,"744 VT RT 113, WEST FAIRLEE, VT, 05083",elementary
+PS336,Weybridge Elementary School,62,"210 QUAKER VILLAGE ROAD, MIDDLEBURY, VT, 05753",elementary
+PS339,White River School,235,"102 PINE STREET, WHITE RIVER JCT, VT, 05001",elementary
+PS417,White River Valley High School,180,"223 SOUTH WINDSOR STREET, SOUTH ROYALTON, VT, 05068",high
+PS416,White River Valley Middle School,119,"273 PLEASANT ST, BETHEL, VT, 05032","elementary, middle"
+PS343,Williamstown Elementary School,234,"100 BRUSH HILL ROAD, WILLIAMSTOWN, VT, 05679",elementary
+PS344,Williamstown Middle/High School,267,"120 HEBERT ROAD, WILLIAMSTOWN, VT, 05679","elementary, middle, high"
+PS398,Williston Schools,1091,"195 CENTRAL SCHOOL DRIVE, WILLISTON, VT, 05495","elementary, middle"
+PS347,Windham Elementary School,23,"5940 WINDHAM ROAD, WEST TOWNSHEND, VT, 05359",elementary
+PS410,Windsor School,563,"127 STATE ST, WINDSOR, VT, 05089","elementary, middle, high"
+PS351,Winooski High School,211,"60 NORMAND STREET, WINOOSKI, VT, 05404",high
+PS401,Winooski Middle School,168,"80 NORMAND STREET, WINOOSKI, VT, 05404","elementary, middle"
+PS352,Wolcott Elementary School,143,"PO BOX 179, WOLCOTT, VT, 05680",elementary
+PS353,Woodbury Elementary School,55,"SCHOOL STREET, WOODBURY, VT, 05681",elementary
+PS354,Woodford Hollow School,23,"995 VT ROUTE 9, BENNINGTON, VT, 05201",elementary
+PS355,Woodstock Elementary School,233,"15 SOUTH STREET, WOODSTOCK, VT, 05091",elementary
+PS356,Woodstock Union Middle/High School,501,"4961 WOODSTOCK ROAD, WOODSTOCK, VT, 05091","middle, high"
